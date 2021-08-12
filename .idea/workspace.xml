@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c58fa02-09c3-4b9e-b684-6f76796a553b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hello-world/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-world" />
+  </component>
+  <component name="ProjectId" id="1wd0wh9TSDtVQCMhTlkXzetB2e4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c58fa02-09c3-4b9e-b684-6f76796a553b" name="Default Changelist" comment="" />
+      <created>1628773399240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628773399240</updated>
+      <workItem from="1628773402036" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
